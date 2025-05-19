@@ -1,6 +1,7 @@
 # Video-Analyser-and-In-video-Annotation
-Uses AWS Rekognition
-Done using Pycharm Community
+Uses AWS Rekognition (boto3) for image analysing
+And uses OpenCV for In-Video Annotation
+Done using Pycharm Community (Win10)
 Need to:
   Install and configure AWS SDK
   Set up IAM permissions and S3 bucket
