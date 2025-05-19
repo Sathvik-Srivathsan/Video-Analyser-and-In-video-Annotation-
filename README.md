@@ -31,5 +31,7 @@ Need to:
 
 
 Demo example:
+
+
 ![DemoVidAdobeStockFootage_annotated-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f4bb3ea4-28f2-4c11-8250-7198f5973b78)
 
